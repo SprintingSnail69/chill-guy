@@ -1,0 +1,21 @@
+* {
+    text-align: center;
+    font-family: Inter;
+    padding: none;
+    border: none;
+}
+
+.thingy {
+    color: black;
+}
+
+@font-face {
+    font-family: Inter;
+    src: url(fonts/Inter.ttf);
+}
+
+.chill-img {
+    height: 100vh;
+    width: 100%;
+
+}
